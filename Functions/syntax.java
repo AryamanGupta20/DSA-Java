@@ -8,5 +8,6 @@ public class syntax{
         int b=5;
   display.add();
   
+  
 }
 }
