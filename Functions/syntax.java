@@ -5,7 +5,6 @@ public class syntax{
         {
             System.out.print(a+b);
         }
-
         int a =5;
         int b=5;
   display.add();
