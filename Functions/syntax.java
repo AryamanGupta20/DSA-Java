@@ -5,5 +5,6 @@ public class syntax{
         int b=5;
 
         
+        
 }
 }
