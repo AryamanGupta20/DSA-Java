@@ -14,6 +14,5 @@ public class areaofcircle {
         double area = pi*r*r;
 
         System.out.print(area);
-    }
-    
+    }  
 }
