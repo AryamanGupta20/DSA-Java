@@ -11,5 +11,6 @@ public class simplecode {
 
         System.out.println(a+b);
         
+        
     }
 }
