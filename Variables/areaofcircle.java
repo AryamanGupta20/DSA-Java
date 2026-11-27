@@ -16,5 +16,3 @@ public class areaofcircle {
         System.out.print(area);
     }  
 }
-
-
